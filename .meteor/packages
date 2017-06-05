@@ -25,7 +25,6 @@ fortawesome:fontawesome
 spiderable
 fastclick
 raix:handlebar-helpers
-aldeed:collection2
 aldeed:autoform
 accounts-ui
 accounts-password
@@ -33,3 +32,4 @@ matb33:bootstrap-glyphicons
 msavin:jetsetter
 zimme:active-route
 gwendall:auth-client-callbacks
+aldeed:collection2-core@2.0.0
